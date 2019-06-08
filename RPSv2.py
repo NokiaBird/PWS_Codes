@@ -32,7 +32,6 @@ while player_wins < winning_score and computer_wins < winning_score:
         if computer == "scissors":
             print("player wins!")
             player_wins += 1
-            # we can use else statement to make it more simpler
         else:
             print("computer wins!")
             computer_wins += 1
