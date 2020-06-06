@@ -7,3 +7,4 @@ while True:
 	guess = input("Pick a number between 1 and 15")
 	guess = int(guess)
 	# Will finish this tomorrow in sha allah
+	# More into this tomorrow in sha allah
