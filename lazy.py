@@ -6,3 +6,4 @@ if state == "lazy":
 else:
 	print('whatever my man')
 # More and more procrastination to save the money from beeminder :(
+# More lazy 
